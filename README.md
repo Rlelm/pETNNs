@@ -1,6 +1,8 @@
 ## pETNNs: Partial Evolutionary Tensor Neural Networks for Solving Time-dependent Partial Differential Equations
 by Tunan Kao, He Zhang, Lei Zhang, Jin Zhao
 
+Paper: [https://journal.global-sci.org/intro/online/read?online_id=2719](https://journal.global-sci.org/intro/online/read?online_id=2719)  
+
 ### Transport equation
 
 - 3D case
