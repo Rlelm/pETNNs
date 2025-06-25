@@ -84,7 +84,7 @@ N, N_ob = len(x), len(x_ob)
 
 
 if dim == 2 or dim ==3:
-    p=6
+    p = 6
     size = [2, 20, 20, p]
 else: 
     p = 10
